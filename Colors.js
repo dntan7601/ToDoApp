@@ -1,0 +1,17 @@
+export default colors = {
+  black: "#2D3436",
+  gray: "#A4A4A4",
+  lightGray: "#CACACA",
+  blue: "#24A6D9",
+  blueLight: "#B8B5FF",
+  white: "#FFF",
+  red: "#D85963",
+  background: "#121212",
+  redLight: "#F55353",
+  green: "#91C483",
+  blueDark: "#001427",
+  pink: "#FF85B3",
+  violet: "#A799B7",
+  blueDark: "#03506F",
+  orange: "#F37121",
+};
